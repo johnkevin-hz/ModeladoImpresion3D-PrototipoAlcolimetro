@@ -1,7 +1,9 @@
 # ModeladoImpresion3D-PrototipoAlcolimetro
 Diseño 3D del prototipo para la investigación de Alcohol.
 
-# Arduino core for the ESP32
+![Pin Functions](img/diseño_principal.png)
+
+# Funcionamiento
 [![Build Status](https://travis-ci.org/espressif/arduino-esp32.svg?branch=master)](https://travis-ci.org/espressif/arduino-esp32) ![](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg)
 
 ### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
