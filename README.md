@@ -45,7 +45,7 @@ Finally, if you are sure no one else had the issue, follow the [ISSUE_TEMPLATE](
 
 ### ESP32Dev Board PINMAP
 
-![Pin Functions](img/diseño_principal.jpg)
+![Pin Functions](img/diseño_principal.png)
 
 ### Tip
 
