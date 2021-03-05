@@ -1,7 +1,7 @@
 # ModeladoImpresion3D-PrototipoAlcolimetro
 Diseño 3D del prototipo para la investigación de Alcohol.
 
-![Pin Functions](img/diseño_principal.png)
+![Pin Functions](img/diseño_principal_ind.png)
 
 # Funcionamiento
 
