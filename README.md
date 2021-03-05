@@ -9,7 +9,7 @@ Diseño 3D del prototipo para la investigación de Alcohol.
 
 ![Pin Functions](img/funcionamiento_inicial.png)
 
-### Etapa Inicial 
+### Etapa Final 
 
 ![Pin Functions](img/funcionamiento_final.png)
 
