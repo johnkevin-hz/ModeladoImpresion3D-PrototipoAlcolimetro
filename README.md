@@ -6,14 +6,14 @@ Diseño 3D del prototipo para la investigación de Alcohol.
 # Funcionamiento
 [![Build Status](https://travis-ci.org/espressif/arduino-esp32.svg?branch=master)](https://travis-ci.org/espressif/arduino-esp32) ![](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg)
 
-### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### Etapa Inicial 
 
-## Contents
-- [Development Status](#development-status)
-- [Installation Instructions](#installation-instructions)
-- [Decoding Exceptions](#decoding-exceptions)
-- [Issue/Bug report template](#issuebug-report-template)
-- [ESP32Dev Board PINMAP](#esp32dev-board-pinmap)
+![Pin Functions](img/funcionamiento_inicial.png)
+
+### Etapa Inicial 
+
+![Pin Functions](img/funcionamiento_final.png)
+
 
 ### Development Status
 
