@@ -16,6 +16,6 @@ Diseño 3D del prototipo para la investigación de Alcohol.
 
 ### Diseño 3D 
 
-[Descargar aqui](https://github.com/me-no-dev/EspExceptionDecoder)
+[Descargar aqui](https://raw.githubusercontent.com/johnkevin-hz/ModeladoImpresion3D-PrototipoAlcolimetro/main/doc/dise%C3%B1o3d-alcolimetro.skb)
 ![Pin Functions](img/diseño_3d.png)
 
