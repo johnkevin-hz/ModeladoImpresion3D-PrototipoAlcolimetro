@@ -14,7 +14,7 @@ Diseño 3D del prototipo para la investigación de Alcohol.
 ![Pin Functions](img/funcionamiento_final.png)
 
 
-### Diseño 3D 
+### Diseño 3D en SketchUp
 
 [Descargar archivo SketchUp 2019 aqui](https://github.com/johnkevin-hz/ModeladoImpresion3D-PrototipoAlcolimetro/archive/main.zip)
 ![Pin Functions](img/diseño_3d.png)
